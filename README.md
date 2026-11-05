@@ -141,3 +141,4 @@ Set it back to `0` for normal runs, since serial printing slows the loop.
 ## Libraries
 
 - `RCBoard.h`
+- `https://github.com/Techgeeks-store/Blueprint01-Robot-Controller-Board.git`
